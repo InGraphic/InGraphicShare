@@ -1,0 +1,2 @@
+# InGraphicShare
+Share For Group
